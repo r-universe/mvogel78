@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "childsds"]
+	path = childsds
+	url = https://github.com/cran/childsds
+	shallow = true
+	registered = true
